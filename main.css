@@ -1,0 +1,26 @@
+body {
+    background-color: #E5E5E5;
+}
+
+img {
+    size: 200px;
+}
+
+.navbar {
+    background-color: #14213D;
+    padding: 14px;
+}
+
+.navbar a {
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px;
+}
+
+.navbar a:hover {
+    background-color: #FCA311;
+}
+
+.navbar a.active {
+    background-color: #FCA311;
+}
